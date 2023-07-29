@@ -1,2 +1,3 @@
 # API-test-automation-with-restAssured-tutorial
-a tutorial for API test automation
+a tutorial for API test automation using RestAssured, and TestNG.
+
